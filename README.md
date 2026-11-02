@@ -66,24 +66,3 @@ Expected output:
 ```
 
 To run this example in IntelliJ, also mark `examples` as a **Sources Root**, then run `PowerDemo.main`.
-
-## Upload to GitHub
-
-The archive includes the local Git history. Keep the included `.git` folder when extracting the project. Review the history with `git log --oneline`.
-
-Create an empty GitHub repository, copy its URL, and use it in place of `YOUR_REPOSITORY_URL`:
-
-```bash
-git remote add origin YOUR_REPOSITORY_URL
-git push -u origin main
-```
-
-Add the actual repository URL to Section 6 of `REPORT.md`, then save that change:
-
-```bash
-git add REPORT.md
-git commit -m "Add GitHub repository link to report"
-git push
-```
-
-Submit the updated Markdown report and repository link to Moodle. For the defense, run `Main` and explain the interface, context, strategies, runtime switching, and the difference between Strategy and State.
