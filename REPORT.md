@@ -135,7 +135,7 @@ The core and extension compiled for Java 17. Their console output matched the ex
 
 ## 6 GitHub repository
 
-**Repository URL:** ADD THE ACTUAL GITHUB REPOSITORY URL HERE BEFORE SUBMISSION.
+**Repository URL:** https://github.com/nurkenulyadiyat/assignment5-sdp
 
 ### References
 
